@@ -34,9 +34,9 @@ Linux Administration interview questions
 * Describe a scenario when deleting a file, but 'df' not showing the space being freed.
 * What happens to a child process that dies and has no parent process to wait for it and what’s bad about this?
 * How to know which process listens on a specific port?
-* What are Iptables?
+* What is Iptables?
 * Which privilege is required to operate iptables?
-* How to find all the regular files in a directory  ?
+* How can you find all the regular files in a directory?
 * What is LVM?
 * Which command is used to extend a logical volume?
 * Tell me the steps to remove the swap file?
