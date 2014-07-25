@@ -59,13 +59,13 @@ Linux Administration interview questions
 
 * What is the JVM?
 * Describe garbage collection.
-* what are the types of garbage collectors?
-* walk me through a garbage collection, what happens?
+* What are the types of garbage collectors?
+* Walk me through a garbage collection, what happens?
 * What are the heap generations?
 * Describe the young heap spaces.
 * What is stored in the To space of a young generation 
 * How do you set the heap size?
-* 
+
 
 ## Apache
 
