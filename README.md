@@ -37,7 +37,11 @@ Linux Administration interview questions
 * What are Iptables?
 * Which privilege is required to operate iptables?
 * How to find all the regular files in a directory  ?
-
+* What is LVM?
+* Which command is used to extend a logical volume?
+* Tell me the steps to remove the swap file?
+* What is the role of /etc/resolv.conf file?
+* What daemon is responsible for tracking events on your system?
 
 ## Hard Linux Questions:
 
@@ -49,6 +53,7 @@ Linux Administration interview questions
 * Describe the linux boot process with as much detail as possible, starting from when the system is powered on and ending when you get a prompt.
 * When trying to umount a directory it says it's busy, how to find out which PID holds the directory?
 * How do you debug a running process or a library that is being called? A: strace -p PID
+* What are the steps to create LVM logical volume?
 
 ## Java Administration
 
@@ -81,13 +86,7 @@ Linux Administration interview questions
 
 * What is RPM?
 * What is YUM?
-* explain the differences.
-* Tell me the steps to remove the swap file?
-* What is LVM?
-* What are the steps to create LVM?
-* Which command is used to extend a logical volume?
-* What daemon is responsible for tracking events on your system?
-* What is the role of /etc/resolv.conf file?
+* Explain the differences.
 * What does /boot directory contains?
 * What does /dev directory contain?
 * If you are getting error "package is already installed" but you have to install package any how. what option you will use?
@@ -113,8 +112,8 @@ Linux Administration interview questions
 ## Shell
 
 * What does . mean in regular expressions?
-* What is difference between ” and ‘  ?
-
+* What is difference between ” and ‘?
+* What does $? give you?
 
 ## Other Great References:
 
