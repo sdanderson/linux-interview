@@ -49,7 +49,6 @@ Linux Administration interview questions
 * What kind of keys are in ~/.ssh/authorized_keys and what it is this file used for?
 * I've added my public ssh key into authorized_keys but I'm still getting a password prompt, what can be wrong?
 * Did you ever create RPM's, DEB's or solaris pkg's?
-* What's happening when the Linux kernel is starting the OOM killer, how does it choose which process to kill first.
 * Describe the linux boot process with as much detail as possible, starting from when the system is powered on and ending when you get a prompt.
 * When trying to umount a directory it says it's busy, how to find out which PID holds the directory?
 * How do you debug a running process or a library that is being called? A: strace -p PID
