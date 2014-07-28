@@ -113,8 +113,14 @@ Linux Administration interview questions
 * What does . mean in regular expressions?
 * What is difference between ” and ‘?
 * What does $? give you?
+* You might have heard about inodes. can you describe inode briefly?
+	*  A ‘inode’ is a ‘data-structure’, which is used for file identification on Linux. Each file on an Unix System has a separate ‘inode’ and an ‘Unique’ inode Number.
+* What is the difference between $$ and $!?
 
+## DNS
 
+* which are the important configuration files for DNS server ?
+* On which port DNS server works ?
 
 ## Other Great References:
 
